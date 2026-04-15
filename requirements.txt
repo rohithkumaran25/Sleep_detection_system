@@ -1,0 +1,5 @@
+tensorflow
+cv2
+numpy
+pygame
+matplotlib
